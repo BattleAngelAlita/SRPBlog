@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d368729b6012744bb186aa3f7e78cb5, type: 3}
+  m_Name: CustomResolvePipe
+  m_EditorClassIdentifier: 
+  msaaSamples: 4
+  customResolve: {fileID: 2100000, guid: ec175ca4ef66f0341b24c474bc0999c4, type: 2}
